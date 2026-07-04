@@ -67,11 +67,27 @@ Constitutional AI improves model behavior during training, but real-world AI sys
 
 ## Focus
 
+Google DeepMind conducts research on advanced artificial intelligence with a strong emphasis on AI safety, alignment, robustness, and responsible deployment. Their goal is to develop AI systems that are capable, beneficial, and aligned with human values.
+
 ## Existing Safety Techniques
+
+- AI Alignment Research
+- Interpretability Research
+- Frontier Safety Framework
+- Red Team Testing
+- Reinforcement Learning
+- Robustness Evaluations
 
 ## Strengths
 
+- Strong theoretical and practical AI safety research.
+- Significant contributions to interpretability and AI alignment.
+- Development of safety frameworks for frontier AI models.
+- Active research on reducing catastrophic AI risks.
+
 ## Limitations
+
+Most existing approaches emphasize evaluating models before deployment and improving training methods. Organizations deploying AI systems may also need continuous operational monitoring to understand how AI behavior changes during long-term real-world use.
 
 ---
 
