@@ -33,3 +33,33 @@ SSF explores a framework that combines multiple safety indicators into an interp
 - Measure multiple aspects of AI trustworthiness.
 - Provide explainable safety assessments.
 - Support responsible deployment of AI systems.
+  
+ # Core Principles
+
+## 1. Continuous Monitoring
+
+AI safety should not end after deployment. Systems should be observed throughout their operational lifecycle.
+
+---
+
+## 2. Multi-Dimensional Evaluation
+
+Trustworthiness should be assessed using multiple indicators rather than a single score.
+
+---
+
+## 3. Explainability
+
+Safety assessments should clearly explain why a particular evaluation was produced.
+
+---
+
+## 4. Human Oversight
+
+High-risk situations should encourage human review instead of relying solely on AI.
+
+---
+
+## 5. Adaptability
+
+Safety evaluation should consider the context and risk level of different application domains.
