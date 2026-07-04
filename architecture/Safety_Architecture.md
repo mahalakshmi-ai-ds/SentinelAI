@@ -1,62 +1,27 @@
-                         SENTINELAI
-
-                       User Prompt
-                            │
-                            ▼
-                  AI Model Generates Response
-                            │
-                            ▼
-                Response Collection Layer
-                            │
-                            ▼
-               Sentinel Safety Analyzer (SSA)
-                            │
-     ┌──────────┬──────────┬──────────┬──────────┐
-     ▼          ▼          ▼          ▼
- Truthfulness  Harmfulness Privacy  Bias & Fairness
-     │          │          │          │
-     ▼          ▼          ▼          ▼
-Hallucination Robustness Transparency Human Oversight
-      \          |          |         /
-       \_________|__________|________/
-                    │
-                    ▼
-          Sentinel Safety Score Engine
-                    │
-                    ▼
-         Overall Sentinel Safety Score
-                    │
-                    ▼
-         Risk Classification Engine
-        ┌─────────┬──────────┬─────────┐
-        ▼         ▼          ▼
-      Safe     Warning    Critical
-                    │
-                    ▼
-      Recommendation Generation Layer
-                    │
-                    ▼
-        Human Review Recommendation
-
-      # SentinelAI Safety Architecture
+# SentinelAI Safety Architecture
 
 ## 1. Overview
 
-## 2. Architecture Components
+## 2. Why Existing AI Safety Pipelines Are Not Enough
 
-## 3. Evaluation Pipeline
+## 3. SentinelAI Multi-Layer Safety Architecture
 
-## 4. Sentinel Safety Analyzer
+## 4. Layer 1 – Input Safety Layer
 
-## 5. Sentinel Safety Score Engine
+## 5. Layer 2 – AI Response Observation Layer
 
-## 6. Risk Classification
+## 6. Layer 3 – Risk Analysis Engine
 
-## 7. Human Oversight Layer
+## 7. Layer 4 – Sentinel Safety Score Engine
 
-## 8. Dashboard
+## 8. Layer 5 – Human Oversight Layer
 
-## 9. Future Extensions
-                    │
-                    ▼
-         Monitoring Dashboard
+## 9. Layer 6 – Continuous Learning Layer
+
+## 10. Information Flow
+
+## 11. Real-world Example
+
+## 12. Why this Architecture is Different
+
+## 13. Future Extension
