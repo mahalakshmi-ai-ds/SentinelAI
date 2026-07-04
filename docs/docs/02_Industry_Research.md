@@ -95,14 +95,28 @@ Most existing approaches emphasize evaluating models before deployment and impro
 
 ## Focus
 
+Microsoft Research focuses on developing responsible and trustworthy AI systems that are safe, reliable, transparent, and accountable. The organization invests in AI safety, governance, human-AI collaboration, and methods for evaluating AI systems deployed in real-world applications.
+
 ## Existing Safety Techniques
+
+- Responsible AI Framework
+- AI Red Teaming
+- AI Risk Assessment
+- Explainable AI (XAI)
+- Human-in-the-Loop Systems
+- AI Governance and Compliance
+- Content Safety Systems
 
 ## Strengths
 
+- Strong emphasis on responsible AI practices across enterprise products.
+- Research on transparency, explainability, and fairness.
+- Comprehensive governance frameworks for organizations deploying AI.
+- Human oversight is integrated into many high-risk AI applications.
+
 ## Limitations
 
----
-
+Most governance frameworks define policies and best practices, but organizations still need practical systems that continuously monitor AI behavior after deployment. Detecting behavioral changes, safety drift, and trust degradation over time remains an important challenge.
 # 5. Meta AI
 
 ## Focus
