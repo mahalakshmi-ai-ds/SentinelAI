@@ -58,6 +58,36 @@ Safety assessments should clearly explain why a particular evaluation was produc
 
 High-risk situations should encourage human review instead of relying solely on AI.
 
+# Safety Dimensions
+
+## Reliability
+
+Does the AI provide consistent and stable responses?
+
+---
+
+## Truthfulness
+
+Does the response avoid unsupported or hallucinated information?
+
+---
+
+## Robustness
+
+Can the AI handle adversarial or unexpected inputs safely?
+
+---
+
+## Explainability
+
+Can the system provide understandable reasoning or evidence for its assessment?
+
+---
+
+## Risk Awareness
+
+Does the AI adjust its behavior appropriately in high-risk situations?
+
 ---
 
 ## 5. Adaptability
