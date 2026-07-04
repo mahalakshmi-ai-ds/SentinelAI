@@ -93,3 +93,23 @@ Does the AI adjust its behavior appropriately in high-risk situations?
 ## 5. Adaptability
 
 Safety evaluation should consider the context and risk level of different application domains.
+
+# Sentinel Safety Score (SSS)
+
+SSF summarizes observations into five dimensions.
+
+Example
+
+Reliability: 90
+
+Truthfulness: 88
+
+Robustness: 82
+
+Explainability: 91
+
+Risk Awareness: 95
+
+Overall Sentinel Safety Score: 89/100
+
+The score is intended as a high-level indicator to support analysis and should not be interpreted as a guarantee that an AI system is safe.
