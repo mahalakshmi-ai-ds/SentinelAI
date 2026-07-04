@@ -121,16 +121,73 @@ Most governance frameworks define policies and best practices, but organizations
 
 ## Focus
 
+Meta AI develops open-source AI models and conducts research on responsible AI, robustness, fairness, transparency, and AI evaluation. The organization also studies methods to improve model reliability while supporting open scientific research.
+
 ## Existing Safety Techniques
+
+- Responsible AI Research
+- Open-source AI Safety Evaluations
+- Fairness and Bias Research
+- Robustness Testing
+- Red Team Evaluations
+- Transparency Research
 
 ## Strengths
 
+- Promotes open research that allows the broader community to evaluate AI systems.
+- Strong research on fairness, robustness, and model evaluation.
+- Encourages collaboration through open-source AI models.
+- Invests in identifying harmful behaviors before deployment.
+
 ## Limitations
+
+Open models can be adapted and deployed in many different environments where behavior may change over time. Continuous post-deployment monitoring, long-term behavioral analysis, and automated safety observability remain active research opportunities.
 
 ---
 
 # Overall Observations
+# Overall Observations
 
+After analyzing the AI safety approaches of OpenAI, Anthropic, Google DeepMind, Microsoft Research, and Meta AI, several common patterns emerge.
+
+## Common Strengths
+
+- Significant investment in AI alignment and safety research.
+- Extensive use of red teaming and safety evaluations before deployment.
+- Development of techniques such as Reinforcement Learning from Human Feedback (RLHF), Constitutional AI, interpretability research, and responsible AI frameworks.
+- Strong focus on reducing harmful outputs, improving robustness, and aligning AI systems with human values.
+
+## Common Limitations
+
+Although current approaches have significantly improved AI safety, they primarily focus on developing safer models before deployment or evaluating models at specific points in time.
+
+As AI systems become autonomous and continuously interact with users, new challenges emerge:
+
+- AI behavior may change over time.
+- Trustworthiness can degrade after deployment.
+- Hallucination rates may vary depending on context.
+- Existing evaluations are often static rather than continuous.
+- Organizations need better visibility into the long-term behavior of deployed AI systems.
+
+These observations suggest that continuous post-deployment AI safety monitoring is becoming an increasingly important research direction.
 ---
 
 # Opportunity for SentinelAI
+# Opportunity for SentinelAI
+
+SentinelAI aims to complement existing AI safety research by focusing on continuous AI behavior monitoring after deployment.
+
+Rather than replacing existing alignment techniques or safety evaluations, SentinelAI introduces an additional safety layer that continuously observes AI systems operating in real-world environments.
+
+The long-term vision of SentinelAI is to provide organizations and researchers with actionable insights into AI behavior through continuous monitoring, behavioral analysis, explainable safety reports, and risk assessment.
+
+The proposed research prototype will explore several core concepts:
+
+- Continuous AI Safety Monitoring
+- AI Behavioral Fingerprint
+- Trust Passport for AI Responses
+- Context-Aware Risk Assessment
+- AI Behavior Drift Detection
+- Explainable Safety Dashboard
+
+By combining these components, SentinelAI seeks to improve transparency, support human oversight, and contribute to the development of trustworthy AI systems.
