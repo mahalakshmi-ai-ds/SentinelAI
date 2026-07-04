@@ -1,25 +1,35 @@
 # Sentinel Safety Framework (SSF) v1.0
 
-## Vision
+**Version:** 1.0 (Research Prototype)
 
-## Problem Statement
+**Project:** SentinelAI
 
-## Why Existing AI Safety Is Not Enough
+**Author:** Mahalakshmi M
 
-## Core Principles
+---
 
-1.
-2.
-3.
-4.
-5.
+# Vision
 
-## Framework Architecture
+Artificial Intelligence systems are becoming increasingly autonomous and are being deployed in high-impact domains such as healthcare, finance, education, cybersecurity, and public services.
 
-## Safety Dimensions
+Current AI safety practices place strong emphasis on training, alignment, and pre-deployment evaluation. However, organizations also need methods to observe AI behavior after deployment.
 
-## Safety Metrics
+The Sentinel Safety Framework (SSF) proposes a structured approach for continuously assessing the trustworthiness of deployed AI systems using multiple safety dimensions rather than a single evaluation.
 
-## Risk Levels
+---
 
-## Future Roadmap
+# Problem Statement
+
+How can organizations continuously monitor and evaluate the safety behavior of AI systems after deployment?
+
+SSF explores a framework that combines multiple safety indicators into an interpretable assessment that supports human oversight.
+
+---
+
+# Objectives
+
+- Monitor AI behavior continuously.
+- Detect potential safety issues early.
+- Measure multiple aspects of AI trustworthiness.
+- Provide explainable safety assessments.
+- Support responsible deployment of AI systems.
