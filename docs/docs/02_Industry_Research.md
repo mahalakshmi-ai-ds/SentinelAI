@@ -171,8 +171,6 @@ As AI systems become autonomous and continuously interact with users, new challe
 
 These observations suggest that continuous post-deployment AI safety monitoring is becoming an increasingly important research direction.
 ---
-
-# Opportunity for SentinelAI
 # Opportunity for SentinelAI
 
 SentinelAI aims to complement existing AI safety research by focusing on continuous AI behavior monitoring after deployment.
