@@ -25,3 +25,11 @@ However, several challenges remain:
 - Developers need better tools for understanding changes in trustworthiness over time.
 
 These challenges become increasingly important as AI systems gain greater autonomy and are integrated into high-risk decision-making environments.
+
+## Proposed Research Direction
+
+SentinelAI proposes a research prototype for continuous post-deployment AI safety monitoring.
+
+Instead of evaluating AI systems only before deployment, SentinelAI aims to continuously observe AI behavior, measure trust-related indicators, and provide explainable safety insights throughout the operational lifecycle of an AI system.
+
+The project explores how continuous monitoring can complement existing AI alignment and evaluation techniques rather than replace them.
