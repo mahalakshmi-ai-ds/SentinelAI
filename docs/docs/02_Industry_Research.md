@@ -39,11 +39,27 @@ This creates an opportunity for external systems that continuously observe AI be
 
 ## Focus
 
+Anthropic is an AI research company focused on building reliable, interpretable, and steerable AI systems. AI safety is central to its mission, with an emphasis on ensuring advanced AI models behave in ways that are aligned with human values.
+
 ## Existing Safety Techniques
+
+- Constitutional AI
+- Reinforcement Learning from AI Feedback (RLAIF)
+- Interpretability research
+- Red teaming
+- Safety evaluations
+- Alignment research
 
 ## Strengths
 
+- Introduced Constitutional AI, allowing models to follow explicit principles.
+- Strong focus on AI alignment and interpretability.
+- Extensive research on reducing harmful and deceptive model behavior.
+- Publishes detailed safety research that benefits the wider AI community.
+
 ## Limitations
+
+Constitutional AI improves model behavior during training, but real-world AI systems may still change over time as they interact with new users, tools, and environments. Continuous monitoring after deployment remains an important complementary research area.
 
 ---
 
