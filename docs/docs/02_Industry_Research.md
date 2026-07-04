@@ -10,12 +10,29 @@ This document analyzes the current landscape of AI Safety research, identifies l
 
 ## Focus
 
+OpenAI develops advanced AI systems while investing heavily in AI safety research. Their goal is to ensure that increasingly capable AI systems remain helpful, reliable, and aligned with human intentions.
+
 ## Existing Safety Techniques
+
+- Reinforcement Learning from Human Feedback (RLHF)
+- Safety fine-tuning
+- Model evaluations
+- Red teaming
+- Monitoring for harmful outputs
+- Alignment research
 
 ## Strengths
 
+- Strong emphasis on alignment research.
+- Extensive safety evaluations before deployment.
+- Continuous improvements based on user feedback.
+- Large-scale testing of advanced AI systems.
+
 ## Limitations
 
+Most safety techniques primarily focus on improving models before or during deployment. There is comparatively less emphasis on continuous behavioral monitoring of deployed AI systems operating in real-world environments.
+
+This creates an opportunity for external systems that continuously observe AI behavior after deployment.
 ---
 
 # 2. Anthropic
