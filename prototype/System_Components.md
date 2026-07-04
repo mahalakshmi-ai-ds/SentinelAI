@@ -132,6 +132,39 @@ Purpose:
 
 Support future model improvement and auditing.
 
-## 11. Continuous Learning Module
+## Continuous Learning Module
 
-## 12. Component Interaction
+Future versions may use stored feedback to:
+
+- Improve detection rules
+- Adapt to emerging threats
+- Refine scoring policies
+
+User
+  │
+  ▼
+Input Safety Module
+  │
+  ▼
+AI Interaction Module
+  │
+  ▼
+Response Observation
+  │
+  ▼
+Risk Detection
+  │
+  ▼
+SSS Engine
+  │
+  ▼
+Recommendation Engine
+  │
+  ▼
+Dashboard
+  │
+  ▼
+Human Review
+  │
+  ▼
+Feedback Database
