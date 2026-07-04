@@ -319,4 +319,3 @@ Future versions may include:
 
 • Global AI safety benchmarking
 
-## 13. Future Extension
