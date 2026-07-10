@@ -1,0 +1,165 @@
+/* ==========================================================
+   SentinelAI Enterprise Theme
+========================================================== */
+
+:root{
+
+--bg:#0D0D16;
+--sidebar:#11111C;
+--card:#171726;
+--card-hover:#1D1D30;
+--border:#2C2C44;
+
+--purple:#8B5CF6;
+--purple-light:#A78BFA;
+
+--text:#FFFFFF;
+--text2:#A1A1AA;
+
+--green:#22C55E;
+--red:#EF4444;
+--orange:#F59E0B;
+
+}
+
+html,
+body,
+.stApp{
+
+background:var(--bg);
+color:var(--text);
+font-family:"Inter",sans-serif;
+
+}
+
+/* Sidebar */
+
+section[data-testid="stSidebar"]{
+
+background:var(--sidebar);
+border-right:1px solid var(--border);
+
+}
+
+/* Cards */
+
+.metric-card{
+
+background:var(--card);
+
+border:1px solid var(--border);
+
+border-radius:20px;
+
+padding:22px;
+
+transition:.25s;
+
+box-shadow:
+0 8px 25px rgba(0,0,0,.45);
+
+}
+
+.metric-card:hover{
+
+background:var(--card-hover);
+
+transform:translateY(-4px);
+
+box-shadow:
+0 12px 35px rgba(139,92,246,.25);
+
+}
+
+/* Buttons */
+
+.stButton button{
+
+background:linear-gradient(
+135deg,
+#8B5CF6,
+#6D5BFF
+);
+
+color:white;
+
+border:none;
+
+border-radius:14px;
+
+height:52px;
+
+font-weight:600;
+
+font-size:16px;
+
+transition:.25s;
+
+}
+
+.stButton button:hover{
+
+transform:translateY(-2px);
+
+box-shadow:
+0 8px 25px rgba(139,92,246,.45);
+
+}
+
+/* Metrics */
+
+[data-testid="metric-container"]{
+
+background:var(--card);
+
+border-radius:18px;
+
+padding:18px;
+
+border:1px solid var(--border);
+
+}
+
+/* Expanders */
+
+.streamlit-expanderHeader{
+
+font-size:17px;
+
+font-weight:600;
+
+}
+
+/* Inputs */
+
+textarea{
+
+border-radius:16px!important;
+
+background:#131320!important;
+
+}
+
+/* Dividers */
+
+hr{
+
+border-color:#292940;
+
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar{
+
+width:8px;
+
+}
+
+::-webkit-scrollbar-thumb{
+
+background:#8B5CF6;
+
+border-radius:30px;
+
+}

@@ -1,0 +1,7 @@
+{
+    "hallucination": 0.02,
+    "bias": 0.03,
+    "toxicity": 0.01,
+    "privacy": 0.02,
+    "robustness": 0.98
+}

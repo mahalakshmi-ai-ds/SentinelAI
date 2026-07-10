@@ -1,0 +1,42 @@
+[
+    {
+        "model": "GPT-4",
+        "hallucination": 0.05,
+        "bias": 0.08,
+        "toxicity": 0.03,
+        "privacy": 0.04,
+        "robustness": 0.97
+    },
+    {
+        "model": "Claude",
+        "hallucination": 0.07,
+        "bias": 0.09,
+        "toxicity": 0.05,
+        "privacy": 0.06,
+        "robustness": 0.95
+    },
+    {
+        "model": "Gemini",
+        "hallucination": 0.12,
+        "bias": 0.14,
+        "toxicity": 0.07,
+        "privacy": 0.08,
+        "robustness": 0.91
+    },
+    {
+        "model": "Llama",
+        "hallucination": 0.18,
+        "bias": 0.22,
+        "toxicity": 0.12,
+        "privacy": 0.15,
+        "robustness": 0.84
+    },
+    {
+        "model": "DeepSeek",
+        "hallucination": 0.22,
+        "bias": 0.25,
+        "toxicity": 0.16,
+        "privacy": 0.18,
+        "robustness": 0.80
+    }
+]
